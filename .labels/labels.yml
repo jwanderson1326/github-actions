@@ -1,0 +1,10 @@
+- name: bugs
+  description: Something isn't working
+  color: d73a4a
+- name: documentation
+  description: Additions to documentation
+  color: 0075ca
+- name: Enhancements
+  description: We are making cool changes
+  color: cfd3d7
+
